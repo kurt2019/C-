@@ -1,0 +1,5 @@
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_method_5.4\obj\Debug\HomeWork_method_5.4.exe
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_method_5.4\obj\Debug\HomeWork_method_5.4.pdb
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_method_5.4\bin\Debug\HomeWork_method_5.4.exe.config
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_method_5.4\bin\Debug\HomeWork_method_5.4.exe
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_method_5.4\bin\Debug\HomeWork_method_5.4.pdb

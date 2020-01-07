@@ -1,0 +1,6 @@
+C:\Users\BortsovAA\Desktop\ДЗ\10_HomeWork_abstract_interface\10_HomeWork_abstract_interface\obj\Debug\10_HomeWork_abstract_interface.csprojAssemblyReference.cache
+C:\Users\BortsovAA\Desktop\ДЗ\10_HomeWork_abstract_interface\10_HomeWork_abstract_interface\bin\Debug\10_HomeWork_abstract_interface.exe.config
+C:\Users\BortsovAA\Desktop\ДЗ\10_HomeWork_abstract_interface\10_HomeWork_abstract_interface\bin\Debug\10_HomeWork_abstract_interface.exe
+C:\Users\BortsovAA\Desktop\ДЗ\10_HomeWork_abstract_interface\10_HomeWork_abstract_interface\bin\Debug\10_HomeWork_abstract_interface.pdb
+C:\Users\BortsovAA\Desktop\ДЗ\10_HomeWork_abstract_interface\10_HomeWork_abstract_interface\obj\Debug\10_HomeWork_abstract_interface.exe
+C:\Users\BortsovAA\Desktop\ДЗ\10_HomeWork_abstract_interface\10_HomeWork_abstract_interface\obj\Debug\10_HomeWork_abstract_interface.pdb

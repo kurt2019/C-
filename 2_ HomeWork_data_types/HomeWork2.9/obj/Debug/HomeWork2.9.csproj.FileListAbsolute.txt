@@ -1,0 +1,5 @@
+C:\Users\BortsovAA\Desktop\HomeWork_1\HomeWork2.9\bin\Debug\HomeWork2.9.exe.config
+C:\Users\BortsovAA\Desktop\HomeWork_1\HomeWork2.9\bin\Debug\HomeWork2.9.exe
+C:\Users\BortsovAA\Desktop\HomeWork_1\HomeWork2.9\bin\Debug\HomeWork2.9.pdb
+C:\Users\BortsovAA\Desktop\HomeWork_1\HomeWork2.9\obj\Debug\HomeWork2.9.exe
+C:\Users\BortsovAA\Desktop\HomeWork_1\HomeWork2.9\obj\Debug\HomeWork2.9.pdb

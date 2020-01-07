@@ -1,0 +1,12 @@
+C:\Users\Kurt\Desktop\ClassWork_4\ClassWork_4\bin\Debug\ClassWork_4.exe.config
+C:\Users\Kurt\Desktop\ClassWork_4\ClassWork_4\bin\Debug\ClassWork_4.exe
+C:\Users\Kurt\Desktop\ClassWork_4\ClassWork_4\bin\Debug\ClassWork_4.pdb
+C:\Users\Kurt\Desktop\ClassWork_4\ClassWork_4\obj\Debug\ClassWork_4.csprojAssemblyReference.cache
+C:\Users\Kurt\Desktop\ClassWork_4\ClassWork_4\obj\Debug\ClassWork_4.exe
+C:\Users\Kurt\Desktop\ClassWork_4\ClassWork_4\obj\Debug\ClassWork_4.pdb
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\ClassWork_4\bin\Debug\ClassWork_4.exe.config
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\ClassWork_4\bin\Debug\ClassWork_4.exe
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\ClassWork_4\bin\Debug\ClassWork_4.pdb
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\ClassWork_4\obj\Debug\ClassWork_4.csprojAssemblyReference.cache
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\ClassWork_4\obj\Debug\ClassWork_4.exe
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\ClassWork_4\obj\Debug\ClassWork_4.pdb

@@ -1,0 +1,13 @@
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\bin\Debug\HomeWork_array_6.8.exe.config
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\bin\Debug\HomeWork_array_6.8.exe
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\bin\Debug\HomeWork_array_6.8.pdb
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\obj\Debug\HomeWork_array_6.8.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\obj\Debug\HomeWork_array_6.8.exe
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\obj\Debug\HomeWork_array_6.8.pdb
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\obj\Debug\HomeWork_array_6.8.csprojAssemblyReference.cache
+C:\Users\BortsovAA\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\bin\Debug\HomeWork_array_6.8.exe.config
+C:\Users\BortsovAA\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\bin\Debug\HomeWork_array_6.8.exe
+C:\Users\BortsovAA\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\bin\Debug\HomeWork_array_6.8.pdb
+C:\Users\BortsovAA\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\obj\Debug\HomeWork_array_6.8.csprojAssemblyReference.cache
+C:\Users\BortsovAA\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\obj\Debug\HomeWork_array_6.8.exe
+C:\Users\BortsovAA\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.8\obj\Debug\HomeWork_array_6.8.pdb

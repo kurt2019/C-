@@ -1,0 +1,6 @@
+C:\Users\Kurt\Desktop\HomeWork_OOP_7.1\HomeWork_OOP_7.2\bin\Debug\HomeWork_OOP_7.2.exe.config
+C:\Users\Kurt\Desktop\HomeWork_OOP_7.1\HomeWork_OOP_7.2\bin\Debug\HomeWork_OOP_7.2.exe
+C:\Users\Kurt\Desktop\HomeWork_OOP_7.1\HomeWork_OOP_7.2\bin\Debug\HomeWork_OOP_7.2.pdb
+C:\Users\Kurt\Desktop\HomeWork_OOP_7.1\HomeWork_OOP_7.2\obj\Debug\HomeWork_OOP_7.2.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Desktop\HomeWork_OOP_7.1\HomeWork_OOP_7.2\obj\Debug\HomeWork_OOP_7.2.exe
+C:\Users\Kurt\Desktop\HomeWork_OOP_7.1\HomeWork_OOP_7.2\obj\Debug\HomeWork_OOP_7.2.pdb

@@ -1,0 +1,5 @@
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.2\bin\Debug\HomeWork4.2.exe.config
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.2\bin\Debug\HomeWork4.2.exe
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.2\bin\Debug\HomeWork4.2.pdb
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.2\obj\Debug\HomeWork4.2.exe
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.2\obj\Debug\HomeWork4.2.pdb

@@ -1,0 +1,6 @@
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_methods_5.3\bin\Debug\HomeWork_methods_5.3.exe.config
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_methods_5.3\bin\Debug\HomeWork_methods_5.3.exe
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_methods_5.3\bin\Debug\HomeWork_methods_5.3.pdb
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_methods_5.3\obj\Debug\HomeWork_methods_5.3.csprojAssemblyReference.cache
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_methods_5.3\obj\Debug\HomeWork_methods_5.3.exe
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_methods_5.3\obj\Debug\HomeWork_methods_5.3.pdb

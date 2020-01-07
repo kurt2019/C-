@@ -1,0 +1,6 @@
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\HomeWork4.5\obj\Debug\HomeWork4.5.csprojAssemblyReference.cache
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\HomeWork4.5\bin\Debug\HomeWork4.5.exe.config
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\HomeWork4.5\bin\Debug\HomeWork4.5.exe
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\HomeWork4.5\bin\Debug\HomeWork4.5.pdb
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\HomeWork4.5\obj\Debug\HomeWork4.5.exe
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\HomeWork4.5\obj\Debug\HomeWork4.5.pdb

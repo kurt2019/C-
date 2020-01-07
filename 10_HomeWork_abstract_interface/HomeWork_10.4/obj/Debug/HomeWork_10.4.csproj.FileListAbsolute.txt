@@ -1,0 +1,13 @@
+C:\Users\BortsovAA\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\bin\Debug\HomeWork_10.4.exe.config
+C:\Users\BortsovAA\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\bin\Debug\HomeWork_10.4.exe
+C:\Users\BortsovAA\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\bin\Debug\HomeWork_10.4.pdb
+C:\Users\BortsovAA\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\obj\Debug\HomeWork_10.4.csprojAssemblyReference.cache
+C:\Users\BortsovAA\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\obj\Debug\HomeWork_10.4.exe
+C:\Users\BortsovAA\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\obj\Debug\HomeWork_10.4.pdb
+C:\Users\Kurt\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\bin\Debug\HomeWork_10.4.exe.config
+C:\Users\Kurt\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\bin\Debug\HomeWork_10.4.exe
+C:\Users\Kurt\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\bin\Debug\HomeWork_10.4.pdb
+C:\Users\Kurt\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\obj\Debug\HomeWork_10.4.csprojAssemblyReference.cache
+C:\Users\Kurt\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\obj\Debug\HomeWork_10.4.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\obj\Debug\HomeWork_10.4.exe
+C:\Users\Kurt\Desktop\ДЗ\10_HomeWork_abstract_interface\HomeWork_10.4\obj\Debug\HomeWork_10.4.pdb

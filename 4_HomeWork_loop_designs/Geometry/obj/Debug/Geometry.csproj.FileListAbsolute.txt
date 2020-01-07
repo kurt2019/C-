@@ -1,0 +1,6 @@
+C:\Users\BortsovAA\Desktop\ClassWork_4\Geometry\bin\Debug\Geometry.exe.config
+C:\Users\BortsovAA\Desktop\ClassWork_4\Geometry\bin\Debug\Geometry.exe
+C:\Users\BortsovAA\Desktop\ClassWork_4\Geometry\bin\Debug\Geometry.pdb
+C:\Users\BortsovAA\Desktop\ClassWork_4\Geometry\obj\Debug\Geometry.csprojAssemblyReference.cache
+C:\Users\BortsovAA\Desktop\ClassWork_4\Geometry\obj\Debug\Geometry.exe
+C:\Users\BortsovAA\Desktop\ClassWork_4\Geometry\obj\Debug\Geometry.pdb

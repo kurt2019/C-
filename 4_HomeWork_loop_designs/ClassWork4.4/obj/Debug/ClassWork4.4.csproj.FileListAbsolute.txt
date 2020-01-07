@@ -1,0 +1,6 @@
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\ClassWork4.4\bin\Debug\ClassWork4.4.exe.config
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\ClassWork4.4\bin\Debug\ClassWork4.4.exe
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\ClassWork4.4\bin\Debug\ClassWork4.4.pdb
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\ClassWork4.4\obj\Debug\ClassWork4.4.csprojAssemblyReference.cache
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\ClassWork4.4\obj\Debug\ClassWork4.4.exe
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\ClassWork4.4\obj\Debug\ClassWork4.4.pdb

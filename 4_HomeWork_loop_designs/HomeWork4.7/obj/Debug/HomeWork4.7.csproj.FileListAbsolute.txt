@@ -1,0 +1,13 @@
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.7\bin\Debug\HomeWork4.7.exe.config
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.7\bin\Debug\HomeWork4.7.exe
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.7\bin\Debug\HomeWork4.7.pdb
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.7\obj\Debug\HomeWork4.7.csprojAssemblyReference.cache
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.7\obj\Debug\HomeWork4.7.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.7\obj\Debug\HomeWork4.7.exe
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.7\obj\Debug\HomeWork4.7.pdb
+C:\Users\BortsovAA\Desktop\ClassWork_4\HomeWork4.7\bin\Debug\HomeWork4.7.exe.config
+C:\Users\BortsovAA\Desktop\ClassWork_4\HomeWork4.7\bin\Debug\HomeWork4.7.exe
+C:\Users\BortsovAA\Desktop\ClassWork_4\HomeWork4.7\bin\Debug\HomeWork4.7.pdb
+C:\Users\BortsovAA\Desktop\ClassWork_4\HomeWork4.7\obj\Debug\HomeWork4.7.csprojAssemblyReference.cache
+C:\Users\BortsovAA\Desktop\ClassWork_4\HomeWork4.7\obj\Debug\HomeWork4.7.exe
+C:\Users\BortsovAA\Desktop\ClassWork_4\HomeWork4.7\obj\Debug\HomeWork4.7.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kurt\Desktop\HomeWork_methods_5\ПроверочныеЗадания_2\bin\Debug\ПроверочныеЗадания_2.exe.config
+C:\Users\Kurt\Desktop\HomeWork_methods_5\ПроверочныеЗадания_2\bin\Debug\ПроверочныеЗадания_2.exe
+C:\Users\Kurt\Desktop\HomeWork_methods_5\ПроверочныеЗадания_2\bin\Debug\ПроверочныеЗадания_2.pdb
+C:\Users\Kurt\Desktop\HomeWork_methods_5\ПроверочныеЗадания_2\obj\Debug\ПроверочныеЗадания_2.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Desktop\HomeWork_methods_5\ПроверочныеЗадания_2\obj\Debug\ПроверочныеЗадания_2.exe
+C:\Users\Kurt\Desktop\HomeWork_methods_5\ПроверочныеЗадания_2\obj\Debug\ПроверочныеЗадания_2.pdb

@@ -1,0 +1,14 @@
+C:\Users\Kurt\Desktop\ДЗ\доробити\HomeWork_array_6\HomeWork_array_6.6\bin\Debug\HomeWork_array_6.6.exe.config
+C:\Users\Kurt\Desktop\ДЗ\доробити\HomeWork_array_6\HomeWork_array_6.6\bin\Debug\HomeWork_array_6.6.exe
+C:\Users\Kurt\Desktop\ДЗ\доробити\HomeWork_array_6\HomeWork_array_6.6\bin\Debug\HomeWork_array_6.6.pdb
+C:\Users\Kurt\Desktop\ДЗ\доробити\HomeWork_array_6\HomeWork_array_6.6\obj\Debug\HomeWork_array_6.6.csprojAssemblyReference.cache
+C:\Users\Kurt\Desktop\ДЗ\доробити\HomeWork_array_6\HomeWork_array_6.6\obj\Debug\HomeWork_array_6.6.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Desktop\ДЗ\доробити\HomeWork_array_6\HomeWork_array_6.6\obj\Debug\HomeWork_array_6.6.exe
+C:\Users\Kurt\Desktop\ДЗ\доробити\HomeWork_array_6\HomeWork_array_6.6\obj\Debug\HomeWork_array_6.6.pdb
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.6\bin\Debug\HomeWork_array_6.6.exe.config
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.6\bin\Debug\HomeWork_array_6.6.exe
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.6\bin\Debug\HomeWork_array_6.6.pdb
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.6\obj\Debug\HomeWork_array_6.6.csprojAssemblyReference.cache
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.6\obj\Debug\HomeWork_array_6.6.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.6\obj\Debug\HomeWork_array_6.6.exe
+C:\Users\Kurt\Desktop\ДЗ\6_HomeWork_array\HomeWork_array_6.6\obj\Debug\HomeWork_array_6.6.pdb

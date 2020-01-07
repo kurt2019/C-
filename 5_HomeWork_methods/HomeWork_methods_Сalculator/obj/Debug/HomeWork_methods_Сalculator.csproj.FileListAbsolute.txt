@@ -1,0 +1,6 @@
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_methods_Сalculator\bin\Debug\HomeWork_methods_Сalculator.exe.config
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_methods_Сalculator\bin\Debug\HomeWork_methods_Сalculator.exe
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_methods_Сalculator\bin\Debug\HomeWork_methods_Сalculator.pdb
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_methods_Сalculator\obj\Debug\HomeWork_methods_Сalculator.csprojAssemblyReference.cache
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_methods_Сalculator\obj\Debug\HomeWork_methods_Сalculator.exe
+C:\Users\BortsovAA\source\repos\HomeWork_methods_5\HomeWork_methods_Сalculator\obj\Debug\HomeWork_methods_Сalculator.pdb

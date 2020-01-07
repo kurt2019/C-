@@ -1,0 +1,6 @@
+C:\Users\BortsovAA\Desktop\HomeWork_methods_5\HomeWork_methods_5.7\bin\Debug\HomeWork_methods_5.7.exe.config
+C:\Users\BortsovAA\Desktop\HomeWork_methods_5\HomeWork_methods_5.7\bin\Debug\HomeWork_methods_5.7.exe
+C:\Users\BortsovAA\Desktop\HomeWork_methods_5\HomeWork_methods_5.7\bin\Debug\HomeWork_methods_5.7.pdb
+C:\Users\BortsovAA\Desktop\HomeWork_methods_5\HomeWork_methods_5.7\obj\Debug\HomeWork_methods_5.7.csprojAssemblyReference.cache
+C:\Users\BortsovAA\Desktop\HomeWork_methods_5\HomeWork_methods_5.7\obj\Debug\HomeWork_methods_5.7.exe
+C:\Users\BortsovAA\Desktop\HomeWork_methods_5\HomeWork_methods_5.7\obj\Debug\HomeWork_methods_5.7.pdb

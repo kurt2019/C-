@@ -1,0 +1,6 @@
+C:\Users\BortsovAA\Desktop\HomeWork_1\HomeWork2.6\bin\Debug\HomeWork2.6.exe.config
+C:\Users\BortsovAA\Desktop\HomeWork_1\HomeWork2.6\bin\Debug\HomeWork2.6.exe
+C:\Users\BortsovAA\Desktop\HomeWork_1\HomeWork2.6\bin\Debug\HomeWork2.6.pdb
+C:\Users\BortsovAA\Desktop\HomeWork_1\HomeWork2.6\obj\Debug\HomeWork2.6.csprojAssemblyReference.cache
+C:\Users\BortsovAA\Desktop\HomeWork_1\HomeWork2.6\obj\Debug\HomeWork2.6.exe
+C:\Users\BortsovAA\Desktop\HomeWork_1\HomeWork2.6\obj\Debug\HomeWork2.6.pdb

@@ -1,0 +1,12 @@
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.3\bin\Debug\HomeWork4.3.exe.config
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.3\bin\Debug\HomeWork4.3.exe
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.3\bin\Debug\HomeWork4.3.pdb
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.3\obj\Debug\HomeWork4.3.csprojAssemblyReference.cache
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.3\obj\Debug\HomeWork4.3.exe
+C:\Users\Kurt\Desktop\ClassWork_4\HomeWork4.3\obj\Debug\HomeWork4.3.pdb
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\HomeWork4.3\bin\Debug\HomeWork4.3.exe.config
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\HomeWork4.3\bin\Debug\HomeWork4.3.exe
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\HomeWork4.3\bin\Debug\HomeWork4.3.pdb
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\HomeWork4.3\obj\Debug\HomeWork4.3.csprojAssemblyReference.cache
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\HomeWork4.3\obj\Debug\HomeWork4.3.exe
+C:\Users\BortsovAA\Desktop\роботи\ClassWork_4\HomeWork4.3\obj\Debug\HomeWork4.3.pdb
